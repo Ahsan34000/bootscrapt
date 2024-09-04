@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.flex{
+    display: flex;
+}
+.container{
+    max-width: 1180px;
+    margin-inline: auto;
+    width: Fixed (1,440px)px;
+height: Hug (771px)px;
+top: 60px;
+gap: 70px;
+opacity: 0px;
+
+    
+    
+}
+.logo{
+    width: 219.54px;
+height: 36px;
+gap: 0px;
+opacity: 0px;
+
+}
+.nav{
+    display: flex;
+    width: 100%;
+
+    justify-content: space-between;
+    width: Fixed (1,440px)px;
+    height: Hug (515px)px;
+    padding: 0px 100px 0px 100px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+
+}
+.menu li {
+    list-style: none;
+    text-decoration: none;
+
+}
+.menu a{
+    text-decoration: none;
+    list-style: none;
+}
+.menu ul{
+    display: flex;
+    gap: 20px;
+    font-family: Space Grotesk;
+    line-height: 28px;
+    text-align: left;
+    color: black;
+
+}
+.menu ul a{
+    color: black;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 50%;
+   
+    padding-bottom: 25px;
+    
+   
+    
+}
+.nav-button{
+    
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    padding: 8px;
+    border-radius: 5px;
+}
+.left h1{
+    
+    font-family: Space Grotesk;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.56px;
+    text-align: left;
+
+}
+.left p{
+    font-family: Space Grotesk;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.hero-button{
+    width: Hug (264px)px;
+height: Hug (68px)px;
+padding: 20px 35px 20px 35px;
+border-radius: 14px;
+opacity: 0px;
+background-color: black;
+color: azure;
+padding-top: 20px;
+}
+
+.left{
+ line-height: 28px;
+ 
+  
+}
+
+.hero-section {
+    padding: 28px;
+    justify-content: space-between;
+    
+}
+.right{
+    padding-left: 30px;
+}
+.company{
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    background-color: greenyellow;
+    padding: 10px;
+    width: Hug (178px)px;
+    height: Hug (51px)px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.text-green{
+    display: flex;
+    padding: 15px;
+}
